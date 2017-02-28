@@ -1,0 +1,94 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    /* Backround window */
+    background-image: url("Maratón-de-Chicago.jpg"); 
+    font-size: 0.75em;
+    font-family: "Times New Roman", Times, serif;
+    margin: 50px;
+    padding: 100px;
+}
+
+ul {
+    font-family: "Tiems New Roman", Times, serif;
+    color: White;
+    text-align: left;
+    line-height: 1.0em;
+    font-size: 1.0em;
+    
+}
+h3 {
+    font-family: "Tiems New Roman", Times, serif;
+    color: White;
+    text-align: left;
+    line-height: 1.0em;
+    font-size: 1.0em;
+}
+    
+h4 {
+    font-family: "Tiems New Roman", Times, serif;
+    color: White;
+    text-align: left;
+    line-height: 1.0em;
+    font-size: 1.0em;
+}
+p
+{
+    font-family: "Tiems New Roman", Times, serif;
+    color: #FF0000;
+    text-align: left;
+    line-height: 1.0em;
+    font-size: 1.0em;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    /* Backround little window 
+    width: 1000px;
+    background-color: #000000;
+    margin: 20px auto 0px auto;
+    border: 10px center #496077;
+}
+
+.header
+{   
+    /* Pink Rectangle 
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    text-indent: 50px;
+    background: #E80000 ;
+    width: 98%;
+}
+
+.header h1
+{   /* My first homework assignment statement 
+    position: static;
+    font-weight: 100;
+    color: #FFFF33;
+    border: [border-style];
+    line-height: 3em;
+    font-size: 3.0em;
+    text-align: center;
+}
+
+.main
+{
+    padding: 10px 12px;
+    margin: 8px 8px 8px 8px;
+    min-height: 500px;
+}
+
+p.clock
+{
+    color: White;
+    text-align: center;
+    line-height: 4.2em;
+    font-size: 3.3em;
+}
